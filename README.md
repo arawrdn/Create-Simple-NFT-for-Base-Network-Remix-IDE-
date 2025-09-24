@@ -17,4 +17,4 @@ This repository contains a minimal NFT (ERC721-like) smart contract deployable o
 
 ## Example Token URI
 Use IPFS or HTTP links, for example:
-ipfs://QmExampleHash/myimage.png
+ipfs://ILoveYouMoreThanAnything/myimage.png
